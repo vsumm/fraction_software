@@ -5,8 +5,9 @@ import { homeObjOne, homeObjTwo } from './Data';
 function Products() {
   return (
     <>
-      <InfoSection {...homeObjOne} />
       <InfoSection {...homeObjTwo} />
+      <InfoSection {...homeObjOne} />
+      
     </>
   );
 }
