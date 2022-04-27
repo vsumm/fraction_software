@@ -57,7 +57,7 @@ export const homeObjFour = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'Secure Database',
-  headline: 'All your data is stored on our secure server',
+  headline: 'All your data is stored in your secure server',
   description:
     'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
   buttonLabel: 'Sign Up Now',

@@ -7,7 +7,6 @@ import {
   Nav,
   NavbarContainer,
   NavLogo,
-  NavIcon,
   MobileIcon,
   NavMenu,
   NavItem,
@@ -44,7 +43,7 @@ function Navbar() {
           <NavbarContainer>
             <NavLogo to='/' onClick={closeMobileMenu}>
 
-              <img src={logo} width={200} height={60} />
+              <img src={logo} alt='fraction logo' width={200} height={60} />
 
             </NavLogo>
             <MobileIcon onClick={handleClick}>
@@ -62,8 +61,8 @@ function Navbar() {
                 </NavLinks>
               </NavItem> */}
               <NavItem>
-                <NavLinks to='/products' onClick={closeMobileMenu}>
-                  Project
+                <NavLinks to='/FHAD' onClick={closeMobileMenu}>
+                  FHAD
                 </NavLinks>
               </NavItem>
               <NavItemBtn>
