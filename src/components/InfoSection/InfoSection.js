@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Container, Button } from '../../globalStyles';
+// import fire from '../../Login/firebase'
 import {
   InfoSec,
   InfoRow,
@@ -39,7 +40,7 @@ function InfoSection({
                 <Heading lightText={lightText}>{headline}</Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
                 <Link to='/sign-up'>
-                  <Button big fontBig primary={primary}>
+                  <Button big fontBig primary={primary} >
                     {buttonLabel}
                   </Button>
                 </Link>

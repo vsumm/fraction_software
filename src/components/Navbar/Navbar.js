@@ -3,6 +3,7 @@ import { FaBars, FaTimes } from 'react-icons/fa';
 import { IconContext } from 'react-icons/lib';
 import { Button } from '../../globalStyles';
 import logo from './logo.png'
+import fire from '../../Login/firebase'
 import {
   Nav,
   NavbarContainer,
@@ -55,11 +56,7 @@ function Navbar() {
                   Home
                 </NavLinks>
               </NavItem>
-              {/* <NavItem>
-                <NavLinks to='/services' onClick={closeMobileMenu}>
-                  Services
-                </NavLinks>
-              </NavItem> */}
+
               <NavItem>
                 <NavLinks to='/FHAD' onClick={closeMobileMenu}>
                   FHAD
@@ -68,7 +65,7 @@ function Navbar() {
               <NavItemBtn>
                 {button ? (
                   <NavBtnLink to='/sign-up'>
-                    <Button primary>SIGN OUT</Button>
+                    <Button primary >SIGN OUT</Button>
                   </NavBtnLink>
                 ) : (
                   <NavBtnLink to='/sign-up'>

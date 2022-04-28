@@ -11,7 +11,7 @@ export const homeObjOne = {
   buttonLabel: 'Get Started',
   imgStart: '',
   img: require('../../images/svg-1.svg'),
-  alt: 'Credit Card',
+  alt: 'Homepage',
   start: ''
 };
 
@@ -28,7 +28,7 @@ export const homeObjTwo = {
   buttonLabel: 'Learn More',
   imgStart: '',
   img: require('../../images/svg-2.svg'),
-  alt: 'Vault',
+  alt: 'Homepage',
   start: ''
 };
 
@@ -46,7 +46,7 @@ export const homeObjThree = {
   buttonLabel: 'Secure Now',
   imgStart: 'start',
   img: require('../../images/profile.jpg'),
-  alt: 'Vault',
+  alt: 'Homepage',
   start: 'true'
 };
 
@@ -63,6 +63,6 @@ export const homeObjFour = {
   buttonLabel: 'Sign Up Now',
   imgStart: 'start',
   img: require('../../images/svg-3.svg'),
-  alt: 'Vault',
+  alt: 'Homepage',
   start: 'true'
 };

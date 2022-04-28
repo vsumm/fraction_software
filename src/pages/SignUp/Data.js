@@ -7,10 +7,10 @@ export const homeObjOne = {
   headline: 'Join today to receive an exclusive offer',
   description:
     'Get access to our exclusive diamond king package. Limited quantity available.',
-  buttonLabel: 'Sign Up',
+  buttonLabel: 'Keep in touch',
   imgStart: '',
   img: require('../../images/svg-2.svg'),
-  alt: 'Credit Card'
+  alt: 'Signup page'
 };
 
 export const homeObjTwo = {
@@ -25,7 +25,7 @@ export const homeObjTwo = {
   buttonLabel: 'Learn More',
   imgStart: '',
   img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+  alt: 'Signup page'
 };
 
 export const homeObjThree = {
@@ -40,7 +40,7 @@ export const homeObjThree = {
   buttonLabel: 'Start Now',
   imgStart: 'start',
   img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+  alt: 'Signup page'
 };
 
 export const homeObjFour = {
@@ -55,5 +55,5 @@ export const homeObjFour = {
   buttonLabel: 'Contact us Now',
   imgStart: 'start',
   img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+  alt: 'Signup page'
 };
