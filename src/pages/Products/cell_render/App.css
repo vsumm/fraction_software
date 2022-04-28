@@ -37,14 +37,28 @@
   }
 }
 .low{
-  background-color: #0bec0b;
-  width:fit-content;
-  padding:0 5px;
-  border-radius: 2px;
+  background-color: #278b27;
+  border: none;
+  color: white;
+  padding: 4px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   
 }
 .high{
   background-color: #da1111;
-  width:fit-content;
-  padding:0 5px;
-  border-radius: 2px;
+  border: none;
+  color: white;
+  padding: 4px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
+

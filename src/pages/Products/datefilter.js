@@ -31,16 +31,16 @@ function Tabledata() {
   const [startDate, setStartDate] = useState('');
   const [endDate, setEndDate] = useState('');
   const rowData = [
-    { company: "Toyota",   Floor: "Floor1", group: "group1", date: "08-04-2022" },
-    { company: "Ford",     Floor: "Floor2", group: "group2", date: "06-04-2022" },
-    { company: "Porsche",  Floor: "Floor3", group: "group3", date: "04-04-2022" },
-    { company: "Mers",     Floor: "Floor4", group: "group5", date: "05-04-2022" },
-    { company: "Mers",     Floor: "Floor5", group: "group5", date: "07-04-2022" },
-    { company: "Toyota",   Floor: "Floor1", group: "group1", date: "08-04-2022" },
-    { company: "Ford",     Floor: "Floor2", group: "group2", date: "06-04-2022" },
-    { company: "Porsche",  Floor: "Floor3", group: "group3", date: "04-04-2022" },
-    { company: "Mers",     Floor: "Floor4", group: "group5", date: "05-04-2022" },
-    { company: "Mers",     Floor: "Floor5", group: "group5", date: "07-04-2022" },
+    { company: "Fraction",   Floor: "Floor1", group: "group1", date: "28-04-2022" },
+    { company: "Fraction",   Floor: "Floor2", group: "group2", date: "26-04-2022" },
+    { company: "Fraction",   Floor: "Floor3", group: "group3", date: "24-04-2022" },
+    { company: "Fraction",   Floor: "Floor4", group: "group5", date: "25-04-2022" },
+    { company: "Fraction",   Floor: "Floor5", group: "group5", date: "27-04-2022" },
+    { company: "Fraction",   Floor: "Floor1", group: "group6", date: "18-04-2022" },
+    { company: "Fraction",   Floor: "Floor2", group: "group7", date: "16-04-2022" },
+    { company: "Fraction",   Floor: "Floor3", group: "group8", date: "24-04-2022" },
+    { company: "Fraction",   Floor: "Floor4", group: "group9", date: "25-04-2022" },
+    { company: "Fraction",   Floor: "Floor5", group: "group10", date: "27-04-2022" },
   ];
 
   const columns = [

@@ -5,14 +5,14 @@ import NameCustomComponent from './component';
 
 
 const empList = [
-  { company: 1, camera1: "3 persons, 1 car, 1 bottle, 1 tv", camera2: " chairs, 1 tv, 1 person", status: 0, dob: 'Tue, 19 April 12:16:29' },
-  { company: 2, camera1: " persons, 2 chairs, 1 tv,", camera2: " 3 chairs, 2 tv, 5 person", status: 1, dob: 'Tue, 19 April 12:16:31' },
-  { company: 3, camera1: "4 persons, 1 bottle, 2 chairs, 1 tv,", camera2: "2 person", status: 2, dob:'Tue, 19 April 12:16:32' },
-  { company: 4, camera1: "3 persons, 1 bottle, 2 chairs, 1 tv,", camera2: "3 persons, 1 bottle, 2 chairs", status: 0, dob: 'Tue, 19 April 12:16:34' },
-  { company: 1, camera1: "3 persons, 1 car, 1 bottle, 1 tv", camera2: " chairs, 1 tv, 1 person", status: 0, dob: 'Tue, 19 April 12:16:29' },
-  { company: 2, camera1: "3 persons, 2 chairs, 1 tv,", camera2: " 3 chairs, 2 tv, 5 person", status: 1, dob: 'Tue, 19 April 12:16:31' },
-  { company: 3, camera1: "4 persons, 1 bottle, 2 chairs, 1 tv,", camera2: "2 person", status: 2, dob:'Tue, 19 April 12:16:32' },
-  { company: 4, camera1: "3 persons, 1 bottle, 2 chairs, 1 tv,", camera2: "3 persons, 1 bottle, 2 chairs", status: 0, dob: 'Tue, 19 April 12:16:34' },
+  { company: 1, camera1: "3 persons, 1 door open , 1 Human , 1 door close", camera2: " 1 door open, 1 loaded , 1 empty", status: 0, dob: 'Tue, 19 April 12:16:29' },
+  { company: 2, camera1: "5 persons, 2 empty, 1 door close ,", camera2: " 3 Human, 2 bag, 2 shoes", status: 1, dob: 'Tue, 19 April 12:16:31' },
+  { company: 3, camera1: "4 persons, 1 empty, 2 door close, 1 loaded,", camera2: " 3 door close, 2 loaded, 5 person", status: 2, dob:'Tue, 19 April 12:16:32' },
+  { company: 4, camera1: "3 persons, 1 empty, 2 door close, 1 loaded,", camera2: "3 persons, 1 empty, 2 door close", status: 0, dob: 'Tue, 19 April 12:16:34' },
+  { company: 5, camera1: "3 persons, 1 car, 1 empty, 1 loaded", camera2: "2 door close, 1 loaded, 1 person", status: 0, dob: 'Tue, 19 April 12:16:29' },
+  { company: 6, camera1: "3 persons, 2 door close, 1 loaded,", camera2: " 3 door close, 2 loaded, 5 person", status: 1, dob: 'Tue, 19 April 12:16:31' },
+  { company: 7, camera1: "4 persons, 1 empty, 2 door close, 1 loaded,", camera2: "2 person", status: 2, dob:'Tue, 19 April 12:16:32' },
+  { company: 8, camera1: "3 persons, 1 empty, 2 door close, 1 loaded,", camera2: "3 persons, 1 empty, 2 door close", status: 0, dob: 'Tue, 19 April 12:16:34' },
 ]
 
 function App() {
@@ -36,8 +36,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1 align="center">Fraction Webapp</h1>
-      <h4 align='center'>Ag-grid custom color coding ( cell rendering )</h4>
+      <h1 align="center">Fraction Dashboard Highlighting </h1>
+      <h4 align='center'></h4>
       <MaterialTable
       // style={{
         

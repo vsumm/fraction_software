@@ -6,7 +6,7 @@ export const homeObjOne = {
   topLine: 'View Our Products',
   headline: 'Shop through our catalog of products',
   description:
-    'We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request',
+    'We have you covered no matter where you are located. we ensure you have access anytime',
   buttonLabel: 'Shop Now',
   imgStart: '',
   img: require('../../images/svg-1.svg'),

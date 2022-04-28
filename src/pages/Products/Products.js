@@ -14,8 +14,6 @@ function FHAD() {
       <Tabledata />
       <br />
       <br />
-      <Grid />
-      <br />
       <br />
       <Fraction />
       <br />
