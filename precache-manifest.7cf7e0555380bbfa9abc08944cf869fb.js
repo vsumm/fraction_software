@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b66f506320be9cafe626",
+    "revision": "e87ab4cd9542f9d75260",
     "url": "/fraction_software/static/css/main.77b2d8ff.chunk.css"
   },
   {
-    "revision": "b66f506320be9cafe626",
-    "url": "/fraction_software/static/js/main.b66f5063.chunk.js"
+    "revision": "e87ab4cd9542f9d75260",
+    "url": "/fraction_software/static/js/main.e87ab4cd.chunk.js"
   },
   {
     "revision": "c75c93e26160fab0ca55",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/fraction_software/static/media/svg-3.397c455a.svg"
   },
   {
-    "revision": "849546df9dcee20f378b01a02aae2c8a",
+    "revision": "8d83bc83cbb798f791f270edba02d1ac",
     "url": "/fraction_software/index.html"
   }
 ];
