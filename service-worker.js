@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fraction_software/precache-manifest.3ef0e744a430fdc780c7a88284b422f1.js"
+  "/fraction_software/precache-manifest.411771834fee04d7f636a4b0416b87e5.js"
 );
 
 workbox.clientsClaim();

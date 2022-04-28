@@ -1,6 +1,6 @@
 {
-  "main.css": "/fraction_software/static/css/main.2f935654.chunk.css",
-  "main.js": "/fraction_software/static/js/main.9b47bbc3.chunk.js",
+  "main.css": "/fraction_software/static/css/main.77b2d8ff.chunk.css",
+  "main.js": "/fraction_software/static/js/main.b66f5063.chunk.js",
   "static/css/1.2b9fae96.chunk.css": "/fraction_software/static/css/1.2b9fae96.chunk.css",
   "static/js/1.c75c93e2.chunk.js": "/fraction_software/static/js/1.c75c93e2.chunk.js",
   "static/js/2.6b9f817c.chunk.js": "/fraction_software/static/js/2.6b9f817c.chunk.js",
@@ -13,6 +13,6 @@
   "static/media/profile.jpg": "/fraction_software/static/media/profile.22c2d0c8.jpg",
   "static/media/svg-3.svg": "/fraction_software/static/media/svg-3.397c455a.svg",
   "index.html": "/fraction_software/index.html",
-  "precache-manifest.3ef0e744a430fdc780c7a88284b422f1.js": "/fraction_software/precache-manifest.3ef0e744a430fdc780c7a88284b422f1.js",
+  "precache-manifest.411771834fee04d7f636a4b0416b87e5.js": "/fraction_software/precache-manifest.411771834fee04d7f636a4b0416b87e5.js",
   "service-worker.js": "/fraction_software/service-worker.js"
 }
